@@ -1,4 +1,5 @@
 #include "RLEStrategy.hpp"
+#include <cstdint> // Added for uint8_t
 
 using namespace std;
 
